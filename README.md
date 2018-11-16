@@ -1,4 +1,4 @@
-# IntegrationWithTwilio
+# Twilio Integration in Java
 Integration with twilio using Java SDK
 
 ## Getting Started
